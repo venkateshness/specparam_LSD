@@ -93,11 +93,6 @@ pip install -r requirements.txt
 
 Key dependencies: `mne==1.8.0`, `fooof==1.1.0`, `antropy==0.1.9`, `lempel-ziv-complexity==0.2.2`, `autoreject==0.4.3`, `scikit-learn==1.5.2`, `pingouin==0.5.5`.
 
-For revision-only analyses:
-```bash
-pip install -r Revision/requirements_revision.txt
-```
-
 ---
 
 ## License
