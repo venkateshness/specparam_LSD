@@ -100,6 +100,12 @@ pip install -r Revision/requirements_revision.txt
 
 ---
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 ## Citation
 
 > *LSD Reconfigures Cortical Dynamics Through Faster Brain Rhythms and Increased Fractal Dimension*  
