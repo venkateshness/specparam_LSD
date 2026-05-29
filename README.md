@@ -8,8 +8,8 @@ Analysis code for the MEG study examining how LSD alters cortical spectral and c
 
 This repository contains the full analysis pipeline, from raw MEG preprocessing through source localisation, spectral/complexity feature extraction, statistical testing, and machine learning decoding.
 
-**Drug conditions**: LSD vs. Placebo (PLA)  
-**Tasks/contexts**: Music, WithoutMusic, Video  
+**Drug conditions**: LSD vs. Placebo (PLA). Single-blind crossover design.
+**Tasks/contexts**: Rest eyes-closed with Music, Rest eyes closed WithoutMusic
 **Subjects**: 18 participants (IDs: 001–020, with gaps)  
 **Brain parcellation**: 360-region Glasser HCP-MMP1 atlas
 
